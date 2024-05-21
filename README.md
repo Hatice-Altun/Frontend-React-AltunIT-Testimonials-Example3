@@ -1,3 +1,13 @@
+# AltunIT.nl | Testimonials Example 3
+
+# Build with
+* [Create React App](https://github.com/facebook/create-react-app).
+
+## Final Result
+
+<img alt="Screenshot eindresultaat" src="src/assets/screenshot.gif"/>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
