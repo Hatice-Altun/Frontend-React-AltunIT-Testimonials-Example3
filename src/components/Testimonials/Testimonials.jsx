@@ -1,5 +1,5 @@
 import React from "react";
-import sections from "../../data";
+import sections from "../../constants/data";
 import {MdStar} from "react-icons/md";
 import "./Testimonials.css";
 
